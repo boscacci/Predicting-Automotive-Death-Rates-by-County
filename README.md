@@ -2,7 +2,9 @@
 
 ### Which attributes, of a US county, correlate to the rate of motor vehicle deaths in that county?
 
-![datausa.io](https://photos.app.goo.gl/q5Q8BcUhwagx8wTm9)
+<p>
+  <img src="https://photos.app.goo.gl/q5Q8BcUhwagx8wTm9" width="500" title="datausa.io">
+</p>
 
 This was our first crack at a building a multiple linear regression model, just to see how it's done and get some practice.
 
