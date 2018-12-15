@@ -1,6 +1,6 @@
 # Multiple Regression: Automotive Deaths by County
 
-### Which attributes, of a US county, correlate to the rate of motor vehicle deaths in that county?
+### Which attributes, of any given US county, correlate most with the rate of motor vehicle deaths in that county?
 
 ![from datausa.io](/readme/map.png)
 
