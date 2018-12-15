@@ -12,11 +12,23 @@ A classmate turned us towards (https://datausa.io/map/?level=county&key=uninsure
 
 For the sake of time, we went with a simpler metric: Given some demographic and other attributes of a county, could we predict the number of plain old motor vehicle deaths that will happen in a year in that county? Could we do better than just guessing the average for every county? Tl;dr: Yes, linear regression works.
 
-#### Outline:
+#### Contents of the Jupyter Notebook:
 1. Data fetching and cleaning
 2. Checking for normality and any colinearity
 3. Splitting and Scaling the data
 4. Making a baseline model
 5. Making improved models¶
 
+#### Excerpts:
+
 ![data](/readme/first_five.png)
+
+![data](/readme/norm.png)
+
+![data](/readme/pair_plots.png)
+
+![data](/readme/co-lin.png)
+
+![data](/readme/L2.png)
+
+![data](/readme/guess_check.png)
