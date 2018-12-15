@@ -29,13 +29,15 @@ For the sake of time, we went with a simpler metric: Given some demographic and 
 
 ![data](/readme/co-lin.png)
 
-##### A graph of our model's coefficients, aka weights, aka betas, aka:
+##### A graph of our L2-CV model's coefficients, aka weights, aka betas, aka:
 
 ![data](/readme/L2.png)
 
 ##### Our model's guesses vs ground truth test set data:
 
 ![data](/readme/guesses.png)
+
+![data](/readme/r2.png)
 
 ## Takeaways:
 
